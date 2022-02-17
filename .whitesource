@@ -15,7 +15,7 @@
   },
 
   "helmv3": {
-    "fileMatch": ["clusters/.+\\.yaml$"]
+    "fileMatch": ["Chart/.+\\.yaml$"]
   },
 
   "helm-values": {
