@@ -1,5 +1,8 @@
 {
   "settingsInheritedFrom": "xinYG/whitesource-config@main",
+  "scanSettings": {
+    "enableIaC": true
+  },
   "remediateSettings": {
     "enableRenovate": true,
     "extends": [
