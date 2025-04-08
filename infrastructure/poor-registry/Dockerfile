@@ -1,4 +1,4 @@
-FROM registry:2
+FROM registry:3
 LABEL MAINTAINER="Madhu Akula" INFO="Kubernetes Goat"
 
 WORKDIR /var/custom/registry/docker/registry
