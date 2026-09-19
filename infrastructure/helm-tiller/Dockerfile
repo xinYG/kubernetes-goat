@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:trixie-20260918
 LABEL MAINTAINER "Madhu Akula" INFO="Kubernetes Goat"
 
 ENV HELMV2_VERSION=2.16.7
